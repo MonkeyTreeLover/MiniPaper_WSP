@@ -2,8 +2,12 @@
 This project was made for the lecture in astronomy "Academic Research, Writing and Presenting (2024W)" at the University of Vienna. A test paper was written, based on a real paper. The orignial paper can be found under those links: https://www.aanda.org/articles/aa/full_html/2023/09/aa46597-23/aa46597-23.html and https://ui.adsabs.harvard.edu/abs/2023A%26A...677A..86L%2F/abstract . 
 My final paper contains 5 pages, but the specification just mentioned a minimum length of 3-4 pages. 
 
-# Specification
+The original paper is: aa46597-23.pdf
+
+Furthermore, a presentation were made, it can also be found in the project.
+
 --- 
+# Specification
 
 In the paper assignment you are writing up what you presented with just a bit more space using all the possibilities the A&A style has to offer. Please upload your A&A paper here.
 
